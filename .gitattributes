@@ -1,0 +1,5 @@
+*.exe binary
+*.dmg binary
+*.deb binary
+*.rpm binary
+*.apk binary

@@ -1,0 +1,82 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-06-20",
+  "repo": "https://github.com/windcloudapp/proxy-client",
+  "cdn": {
+    "jsdelivr": "https://cdn.jsdelivr.net/gh/windcloudapp/proxy-client@{tag}/{path}",
+    "statically": "https://cdn.statically.io/gh/windcloudapp/proxy-client/{tag}/{path}",
+    "jsdedi": "https://jsdedi.net/gh/windcloudapp/proxy-client@{tag}/{path}",
+    "raw": "https://raw.githubusercontent.com/windcloudapp/proxy-client/{tag}/{path}",
+    "gh_proxy": "https://gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/{tag}/{path}"
+  },
+  "clients": [
+    {
+      "id": "clash-verge-rev",
+      "name": "Clash Verge Rev",
+      "version": "2.5.0",
+      "upstream": "https://github.com/clash-verge-rev/clash-verge-rev",
+      "releases": "https://github.com/clash-verge-rev/clash-verge-rev/releases/tag/v2.5.0",
+      "assets": [
+        {
+          "platform": "windows-x64",
+          "filename": "Clash.Verge_2.5.0_x64-setup.exe",
+          "path": "assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64-setup.exe"
+        },
+        {
+          "platform": "macos-arm64",
+          "filename": "Clash.Verge_2.5.0_aarch64.dmg",
+          "path": "assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_aarch64.dmg"
+        },
+        {
+          "platform": "macos-x64",
+          "filename": "Clash.Verge_2.5.0_x64.dmg",
+          "path": "assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64.dmg"
+        },
+        {
+          "platform": "linux-amd64-deb",
+          "filename": "Clash.Verge_2.5.0_amd64.deb",
+          "path": "assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_amd64.deb"
+        },
+        {
+          "platform": "linux-x86_64-rpm",
+          "filename": "Clash.Verge-2.5.0-1.x86_64.rpm",
+          "path": "assets/clash-verge-rev/v2.5.0/Clash.Verge-2.5.0-1.x86_64.rpm"
+        }
+      ]
+    },
+    {
+      "id": "clash-meta-for-android",
+      "name": "Clash Meta for Android",
+      "version": "2.11.28",
+      "upstream": "https://github.com/MetaCubeX/ClashMetaForAndroid",
+      "releases": "https://github.com/MetaCubeX/ClashMetaForAndroid/releases/tag/v2.11.28",
+      "assets": [
+        {
+          "platform": "android-arm64-v8a",
+          "filename": "cmfa-2.11.28-meta-arm64-v8a-release.apk",
+          "path": "assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-arm64-v8a-release.apk"
+        },
+        {
+          "platform": "android-armeabi-v7a",
+          "filename": "cmfa-2.11.28-meta-armeabi-v7a-release.apk",
+          "path": "assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-armeabi-v7a-release.apk"
+        }
+      ]
+    },
+    {
+      "id": "karing",
+      "name": "Karing",
+      "version": "app-store",
+      "upstream": "https://github.com/KaringX/karing",
+      "releases": "https://github.com/KaringX/karing/releases",
+      "assets": [
+        {
+          "platform": "ios-app-store",
+          "filename": null,
+          "path": null,
+          "url": "https://apps.apple.com/us/app/karing/id6472431552"
+        }
+      ]
+    }
+  ]
+}
