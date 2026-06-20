@@ -1,118 +1,118 @@
-{
-    "version": "1.0.0",
-    "updated": "2026-06-20",
-    "mirrors": [
-        {
-            "id": "clash-verge-rev",
-            "name": "Clash Verge Rev",
-            "version": "2.5.0",
-            "upstream": "https://github.com/clash-verge-rev/clash-verge-rev",
-            "downloads": [
-                {
-                    "platform": "windows-x64",
-                    "filename": "Clash.Verge_2.5.0_x64-setup.exe",
-                    "jsdelivr": "https://cdn.jsdelivr.net/gh/windcloudapp/proxy-client@v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64-setup.exe",
-                    "statically": "https://cdn.statically.io/gh/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64-setup.exe",
-                    "jsdedi": "https://jsdedi.net/gh/windcloudapp/proxy-client@v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64-setup.exe",
-                    "raw": "https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64-setup.exe",
-                    "gh_proxy": "https://gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64-setup.exe",
-                    "gh_proxy_v4": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64-setup.exe",
-                    "gh_proxy_v6": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64-setup.exe",
-                    "gh_proxy_cdn": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64-setup.exe"
-                },
-                {
-                    "platform": "macos-arm64",
-                    "filename": "Clash.Verge_2.5.0_aarch64.dmg",
-                    "jsdelivr": "https://cdn.jsdelivr.net/gh/windcloudapp/proxy-client@v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_aarch64.dmg",
-                    "statically": "https://cdn.statically.io/gh/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_aarch64.dmg",
-                    "jsdedi": "https://jsdedi.net/gh/windcloudapp/proxy-client@v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_aarch64.dmg",
-                    "raw": "https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_aarch64.dmg",
-                    "gh_proxy": "https://gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_aarch64.dmg",
-                    "gh_proxy_v4": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_aarch64.dmg",
-                    "gh_proxy_v6": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_aarch64.dmg",
-                    "gh_proxy_cdn": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_aarch64.dmg"
-                },
-                {
-                    "platform": "macos-x64",
-                    "filename": "Clash.Verge_2.5.0_x64.dmg",
-                    "jsdelivr": "https://cdn.jsdelivr.net/gh/windcloudapp/proxy-client@v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64.dmg",
-                    "statically": "https://cdn.statically.io/gh/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64.dmg",
-                    "jsdedi": "https://jsdedi.net/gh/windcloudapp/proxy-client@v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64.dmg",
-                    "raw": "https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64.dmg",
-                    "gh_proxy": "https://gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64.dmg",
-                    "gh_proxy_v4": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64.dmg",
-                    "gh_proxy_v6": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64.dmg",
-                    "gh_proxy_cdn": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_x64.dmg"
-                },
-                {
-                    "platform": "linux-amd64-deb",
-                    "filename": "Clash.Verge_2.5.0_amd64.deb",
-                    "jsdelivr": "https://cdn.jsdelivr.net/gh/windcloudapp/proxy-client@v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_amd64.deb",
-                    "statically": "https://cdn.statically.io/gh/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_amd64.deb",
-                    "jsdedi": "https://jsdedi.net/gh/windcloudapp/proxy-client@v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_amd64.deb",
-                    "raw": "https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_amd64.deb",
-                    "gh_proxy": "https://gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_amd64.deb",
-                    "gh_proxy_v4": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_amd64.deb",
-                    "gh_proxy_v6": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_amd64.deb",
-                    "gh_proxy_cdn": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge_2.5.0_amd64.deb"
-                },
-                {
-                    "platform": "linux-x86_64-rpm",
-                    "filename": "Clash.Verge-2.5.0-1.x86_64.rpm",
-                    "jsdelivr": "https://cdn.jsdelivr.net/gh/windcloudapp/proxy-client@v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge-2.5.0-1.x86_64.rpm",
-                    "statically": "https://cdn.statically.io/gh/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge-2.5.0-1.x86_64.rpm",
-                    "jsdedi": "https://jsdedi.net/gh/windcloudapp/proxy-client@v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge-2.5.0-1.x86_64.rpm",
-                    "raw": "https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge-2.5.0-1.x86_64.rpm",
-                    "gh_proxy": "https://gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge-2.5.0-1.x86_64.rpm",
-                    "gh_proxy_v4": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge-2.5.0-1.x86_64.rpm",
-                    "gh_proxy_v6": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge-2.5.0-1.x86_64.rpm",
-                    "gh_proxy_cdn": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-verge-rev/v2.5.0/Clash.Verge-2.5.0-1.x86_64.rpm"
-                }
-            ]
-        },
-        {
-            "id": "clash-meta-for-android",
-            "name": "Clash Meta for Android",
-            "version": "2.11.28",
-            "upstream": "https://github.com/MetaCubeX/ClashMetaForAndroid",
-            "downloads": [
-                {
-                    "platform": "android-arm64-v8a",
-                    "filename": "cmfa-2.11.28-meta-arm64-v8a-release.apk",
-                    "jsdelivr": "https://cdn.jsdelivr.net/gh/windcloudapp/proxy-client@v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-arm64-v8a-release.apk",
-                    "statically": "https://cdn.statically.io/gh/windcloudapp/proxy-client/v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-arm64-v8a-release.apk",
-                    "jsdedi": "https://jsdedi.net/gh/windcloudapp/proxy-client@v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-arm64-v8a-release.apk",
-                    "raw": "https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-arm64-v8a-release.apk",
-                    "gh_proxy": "https://gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-arm64-v8a-release.apk",
-                    "gh_proxy_v4": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-arm64-v8a-release.apk",
-                    "gh_proxy_v6": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-arm64-v8a-release.apk",
-                    "gh_proxy_cdn": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-arm64-v8a-release.apk"
-                },
-                {
-                    "platform": "android-armeabi-v7a",
-                    "filename": "cmfa-2.11.28-meta-armeabi-v7a-release.apk",
-                    "jsdelivr": "https://cdn.jsdelivr.net/gh/windcloudapp/proxy-client@v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-armeabi-v7a-release.apk",
-                    "statically": "https://cdn.statically.io/gh/windcloudapp/proxy-client/v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-armeabi-v7a-release.apk",
-                    "jsdedi": "https://jsdedi.net/gh/windcloudapp/proxy-client@v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-armeabi-v7a-release.apk",
-                    "raw": "https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-armeabi-v7a-release.apk",
-                    "gh_proxy": "https://gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-armeabi-v7a-release.apk",
-                    "gh_proxy_v4": "https://v4.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-armeabi-v7a-release.apk",
-                    "gh_proxy_v6": "https://v6.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-armeabi-v7a-release.apk",
-                    "gh_proxy_cdn": "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.0/assets/clash-meta-for-android/v2.11.28/cmfa-2.11.28-meta-armeabi-v7a-release.apk"
-                }
-            ]
-        },
-        {
-            "id": "karing",
-            "name": "Karing",
-            "version": "app-store",
-            "upstream": "https://github.com/KaringX/karing",
-            "downloads": [
-                {
-                    "platform": "ios-app-store",
-                    "direct": "https://apps.apple.com/us/app/karing/id6472431552"
-                }
-            ]
-        }
-    ]
+﻿{
+    "mirrors":  [
+                    {
+                        "downloads":  [
+                                          {
+                                              "jsdelivr":  "https://cdn.jsdelivr.net/gh/windcloudapp/proxy-client@v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64-setup.exe",
+                                              "filename":  "Clash.Verge_2.5.1_x64-setup.exe",
+                                              "platform":  "windows-x64",
+                                              "raw":  "https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64-setup.exe",
+                                              "gh_proxy_v4":  "https://v4.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64-setup.exe",
+                                              "statically":  "https://cdn.statically.io/gh/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64-setup.exe",
+                                              "gh_proxy_v6":  "https://v6.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64-setup.exe",
+                                              "gh_proxy":  "https://gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64-setup.exe",
+                                              "jsdedi":  "https://jsdedi.net/gh/windcloudapp/proxy-client@v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64-setup.exe",
+                                              "gh_proxy_cdn":  "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64-setup.exe"
+                                          },
+                                          {
+                                              "jsdelivr":  "https://cdn.jsdelivr.net/gh/windcloudapp/proxy-client@v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_aarch64.dmg",
+                                              "filename":  "Clash.Verge_2.5.1_aarch64.dmg",
+                                              "platform":  "macos-arm64",
+                                              "raw":  "https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_aarch64.dmg",
+                                              "gh_proxy_v4":  "https://v4.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_aarch64.dmg",
+                                              "statically":  "https://cdn.statically.io/gh/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_aarch64.dmg",
+                                              "gh_proxy_v6":  "https://v6.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_aarch64.dmg",
+                                              "gh_proxy":  "https://gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_aarch64.dmg",
+                                              "jsdedi":  "https://jsdedi.net/gh/windcloudapp/proxy-client@v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_aarch64.dmg",
+                                              "gh_proxy_cdn":  "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_aarch64.dmg"
+                                          },
+                                          {
+                                              "jsdelivr":  "https://cdn.jsdelivr.net/gh/windcloudapp/proxy-client@v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64.dmg",
+                                              "filename":  "Clash.Verge_2.5.1_x64.dmg",
+                                              "platform":  "macos-x64",
+                                              "raw":  "https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64.dmg",
+                                              "gh_proxy_v4":  "https://v4.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64.dmg",
+                                              "statically":  "https://cdn.statically.io/gh/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64.dmg",
+                                              "gh_proxy_v6":  "https://v6.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64.dmg",
+                                              "gh_proxy":  "https://gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64.dmg",
+                                              "jsdedi":  "https://jsdedi.net/gh/windcloudapp/proxy-client@v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64.dmg",
+                                              "gh_proxy_cdn":  "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_x64.dmg"
+                                          },
+                                          {
+                                              "jsdelivr":  "https://cdn.jsdelivr.net/gh/windcloudapp/proxy-client@v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_amd64.deb",
+                                              "filename":  "Clash.Verge_2.5.1_amd64.deb",
+                                              "platform":  "linux-amd64-deb",
+                                              "raw":  "https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_amd64.deb",
+                                              "gh_proxy_v4":  "https://v4.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_amd64.deb",
+                                              "statically":  "https://cdn.statically.io/gh/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_amd64.deb",
+                                              "gh_proxy_v6":  "https://v6.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_amd64.deb",
+                                              "gh_proxy":  "https://gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_amd64.deb",
+                                              "jsdedi":  "https://jsdedi.net/gh/windcloudapp/proxy-client@v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_amd64.deb",
+                                              "gh_proxy_cdn":  "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge_2.5.1_amd64.deb"
+                                          },
+                                          {
+                                              "jsdelivr":  "https://cdn.jsdelivr.net/gh/windcloudapp/proxy-client@v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge-2.5.1-1.x86_64.rpm",
+                                              "filename":  "Clash.Verge-2.5.1-1.x86_64.rpm",
+                                              "platform":  "linux-x86_64-rpm",
+                                              "raw":  "https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge-2.5.1-1.x86_64.rpm",
+                                              "gh_proxy_v4":  "https://v4.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge-2.5.1-1.x86_64.rpm",
+                                              "statically":  "https://cdn.statically.io/gh/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge-2.5.1-1.x86_64.rpm",
+                                              "gh_proxy_v6":  "https://v6.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge-2.5.1-1.x86_64.rpm",
+                                              "gh_proxy":  "https://gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge-2.5.1-1.x86_64.rpm",
+                                              "jsdedi":  "https://jsdedi.net/gh/windcloudapp/proxy-client@v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge-2.5.1-1.x86_64.rpm",
+                                              "gh_proxy_cdn":  "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-verge-rev/v2.5.1/Clash.Verge-2.5.1-1.x86_64.rpm"
+                                          }
+                                      ],
+                        "id":  "clash-verge-rev",
+                        "version":  "2.5.1",
+                        "upstream":  "https://github.com/clash-verge-rev/clash-verge-rev",
+                        "name":  "Clash Verge Rev"
+                    },
+                    {
+                        "downloads":  [
+                                          {
+                                              "jsdelivr":  "https://cdn.jsdelivr.net/gh/windcloudapp/proxy-client@v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-arm64-v8a-release.apk",
+                                              "filename":  "cmfa-2.11.30-meta-arm64-v8a-release.apk",
+                                              "platform":  "android-arm64-v8a",
+                                              "raw":  "https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-arm64-v8a-release.apk",
+                                              "gh_proxy_v4":  "https://v4.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-arm64-v8a-release.apk",
+                                              "statically":  "https://cdn.statically.io/gh/windcloudapp/proxy-client/v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-arm64-v8a-release.apk",
+                                              "gh_proxy_v6":  "https://v6.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-arm64-v8a-release.apk",
+                                              "gh_proxy":  "https://gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-arm64-v8a-release.apk",
+                                              "jsdedi":  "https://jsdedi.net/gh/windcloudapp/proxy-client@v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-arm64-v8a-release.apk",
+                                              "gh_proxy_cdn":  "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-arm64-v8a-release.apk"
+                                          },
+                                          {
+                                              "jsdelivr":  "https://cdn.jsdelivr.net/gh/windcloudapp/proxy-client@v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-armeabi-v7a-release.apk",
+                                              "filename":  "cmfa-2.11.30-meta-armeabi-v7a-release.apk",
+                                              "platform":  "android-armeabi-v7a",
+                                              "raw":  "https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-armeabi-v7a-release.apk",
+                                              "gh_proxy_v4":  "https://v4.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-armeabi-v7a-release.apk",
+                                              "statically":  "https://cdn.statically.io/gh/windcloudapp/proxy-client/v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-armeabi-v7a-release.apk",
+                                              "gh_proxy_v6":  "https://v6.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-armeabi-v7a-release.apk",
+                                              "gh_proxy":  "https://gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-armeabi-v7a-release.apk",
+                                              "jsdedi":  "https://jsdedi.net/gh/windcloudapp/proxy-client@v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-armeabi-v7a-release.apk",
+                                              "gh_proxy_cdn":  "https://cdn.gh-proxy.org/https://raw.githubusercontent.com/windcloudapp/proxy-client/v1.0.1/assets/clash-meta-for-android/v2.11.30/cmfa-2.11.30-meta-armeabi-v7a-release.apk"
+                                          }
+                                      ],
+                        "id":  "clash-meta-for-android",
+                        "version":  "2.11.30",
+                        "upstream":  "https://github.com/MetaCubeX/ClashMetaForAndroid",
+                        "name":  "Clash Meta for Android"
+                    },
+                    {
+                        "downloads":  [
+                                          {
+                                              "direct":  "https://apps.apple.com/us/app/karing/id6472431552",
+                                              "platform":  "ios-app-store"
+                                          }
+                                      ],
+                        "id":  "karing",
+                        "version":  "app-store",
+                        "upstream":  "https://github.com/KaringX/karing",
+                        "name":  "Karing"
+                    }
+                ],
+    "version":  "1.0.1",
+    "updated":  "2026-06-20"
 }
